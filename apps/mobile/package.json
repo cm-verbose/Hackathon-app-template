@@ -1,6 +1,7 @@
 {
   "name": "@repo/mobile",
   "main": "expo-router/entry",
+  "private": true,
   "version": "1.0.0",
   "scripts": {
     "dev": "expo start",
@@ -32,6 +33,5 @@
     "@types/react": "~19.1.0",
     "react-test-renderer": "19.1.0",
     "typescript": "~5.9.2"
-  },
-  "private": true
+  }
 }
