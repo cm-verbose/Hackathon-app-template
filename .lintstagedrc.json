@@ -3,7 +3,7 @@
     "eslint --fix",
     "prettier --write"
   ],
-  "*.{md}": [
+  "*.md": [
     "alex",
     "prettier --write"
   ]
