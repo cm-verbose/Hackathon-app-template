@@ -1,6 +1,6 @@
 {
   "*.{ts,tsx}": [
-    "eslint --fix",
+    "pnpm dlx eslint --fix",
     "prettier --write"
   ],
   "*.md": [
